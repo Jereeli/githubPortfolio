@@ -1,5 +1,6 @@
   Program that processes info about songs
   and  playlists from a user's given file.
+!! NOTE: example file used in this program is named example.txt  
   The program is able to create new playlists, with songs in in, and store
   information about the songs and the creator of the playlist for example.
  
