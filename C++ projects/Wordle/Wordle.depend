@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1766529554 source:c:\ohjelmointi projektit\wordle\main.cpp
+	"Utilities.h"
+	<iostream>
+	<vector>
+	<windows.h>
+	<clocale>
+
+1766522438 c:\ohjelmointi projektit\wordle\include\utilities.h
+	<iostream>
+	<vector>
+	<string>
+
+1766531770 source:c:\ohjelmointi projektit\wordle\utilities.cpp
+	"Utilities.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<random>
+	<windows.h>
+	<utility>
+	<map>
+	<algorithm>
+	<set>
+

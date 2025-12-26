@@ -1,0 +1,17 @@
+I wanted to practice using header and .cpp files to organize my programs.
+To do so, I wrote a simple Program that runs in terminal. The Program
+uses a giant wordbank of Finnish words (can be given any words) to create 
+a Wordle-type game. The game is played in terminal. The Program asks
+user to give the name of the file where the words to use are listed, 
+and then creates the game from those words. User can start using to
+guess the randomly chosen word, and when the input contains correct 
+amout of letters, and a letter in correct place, the program displays
+the correctly guessed letters. 
+Example
+correct Word (hidden): HORSE
+input: HOSES
+output: HO_ _ _ , correct letters in wrong places: S, E
+
+Game goes on, until user guesses the Word correctly, and then displays the
+amout of attemps.
+ 
