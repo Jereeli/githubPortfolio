@@ -1,5 +1,8 @@
 """
 Ohjelma alkaa soittamaan haluttua musiikkitiedostoa kun saavun kotiin.
+HUOM! LUE OHJELMA KUVAUS KANSION DESCRIPTION-TIEDOSTOSTA
+
+---THIS CODED IS COMMENTED IN FINNISH, FOR DESCRIPTIONS CHECK THE OTHER FILE IN THIS FOLDER---
 """
 from os import environ
 environ["PYGAME_HIDE_SUPPORT_PROMPT"] = "1"
