@@ -1,0 +1,12 @@
+This is my first ever self coded project made with python. I wanted to test my skills and 
+program a software that would recognize when I enter home, and start playing music, and stop as
+soon as I leave the house. To do this, I figured that the program should do so as soon as it 
+detects my phone's IP address in the same WIFI. To achieve this, I studied a little bit about
+IP addresses and MAC addresses. The program pings my phone's IP continuously, to check whether
+it is in the same WIFI. This program most definitely is NOT best optimized, and as well written
+as it could be, but since this is my first ever program that I designed, I want to leave it as
+is, to showcase my progress. The program however has been tested to work as planned, but it
+stops the music if my phone has been inactive for few minutes. To fix this, I can use an app in
+my phone, that keeps it active for responding to IP pings. With more modern modem than I currently
+have, the program could be also made to interact with the modem, to check if my phone is in the WIFI.
+By doing so, I wouldn't have to do anything to my phone.
