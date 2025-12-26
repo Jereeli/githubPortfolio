@@ -1,0 +1,16 @@
+  Program that processes info about songs
+  and  playlists from a user's given file.
+  The program is able to create new playlists, with songs in in, and store
+  information about the songs and the creator of the playlist for example.
+ 
+  Songs in file to read must be in a form, where each row is written as:
+   ID;Artist;song name; duration in seconds
+  Playlists must be written in form:
+   Name;creator;ID of song 1|ID of song 2| etc...
+  Info rows from songs and albums must be seperated with a row:
+  PLAYLISTS
+ 
+ The songs are stored in a vector, where each album has a smart pointer
+ to, so that duplicates can't occur. Playlists are made with class objects,
+  and interactions are made possible with methods.
+  methods

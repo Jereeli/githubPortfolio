@@ -1,0 +1,24 @@
+tc-sisosig;The Clash;Should I Stay or Should I Go;188
+tc-rtc;The Clash;Rock the Casbah;222
+tc-lc;The Clash;London Calling;199
+tc-sb;The Clash;Spanish Bombs;198
+tc-lits;The Clash;Lost in the Supermarket;226
+
+sp-gstq;Sex Pistols;God Save The Queen;199
+gd-bc;Green Day;Basket Case;181
+r-siapr;Ramones;Sheena Is a Punk Rocker;169
+r-jiap;Ramones;Judy Is a Punk;92
+
+ej-rm;Elton John;Rocket Man;281
+ls-fb;Lynyrd Skynyrd;Free Bird;547
+tp-r;The Police;Roxanne;191
+tp-miab;The Police;Message In A Bottle;290
+mj-rwy;Michael Jackson;Rock with You;220
+a-ahwnn;America;A Horse with No Name;252
+ewaf-s;Earth, Wind & Fire;September;215
+ej-td;Elton John;Tiny Dancer;377
+
+PLAYLISTS
+Best of The Clash;Punk-punkki;tc-sisosig|tc-rtc|tc-lc|tc-sb|tc-lits
+Punk Rock;Punk-punkki;sp-gstq|r-jiap|tc-rtc|r-siapr|tc-lc
+70s favorites;Pekka;ls-fb|ej-rm|mj-rwy|a-ahwnn|tc-lits|ewaf-s|tp-miab|tp-r|ej-td
